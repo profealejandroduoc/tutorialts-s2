@@ -5,7 +5,8 @@ import './style.css'
 // import './basicos/04-arreglos'
 // import './basicos/05-funciones'
 //import './basicos/06-desestructurar-objetos'
-import './basicos/07-desestructurar-arreglos'
+//import './basicos/07-desestructurar-arreglos'
+import './basicos/08-importar'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <h1>Hola mundo TypeScript</h1>
