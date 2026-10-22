@@ -6,7 +6,10 @@ import './style.css'
 // import './basicos/05-funciones'
 //import './basicos/06-desestructurar-objetos'
 //import './basicos/07-desestructurar-arreglos'
-import './basicos/08-importar'
+//import './basicos/08-importar'
+//import './basicos/09-promesas'
+//import './basicos/10-api-fetch'
+import './basicos/11-asynawait'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <h1>Hola mundo TypeScript</h1>
